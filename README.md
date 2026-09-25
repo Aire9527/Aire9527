@@ -35,9 +35,7 @@ Perfil técnico enfocado en la administración, despliegue y aseguramiento de in
 
 ### Contacto y Enlaces
 
-* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com)
-* **Correo Profesional:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-<!--
+
 **Aire9527/Aire9527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
