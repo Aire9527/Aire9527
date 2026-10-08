@@ -16,9 +16,7 @@ Soy Técnico Informático orientado a la administración de bases de datos, gest
 **Mobiles GP** (6 meses)
 - Administración, mantenimiento y gestión de bases de datos.
 
-### Experiencia Adicional
-**Bar Tollo** (2 años)
-- Atención al público, organización y trabajo en equipo.
+
 
 ---
 
